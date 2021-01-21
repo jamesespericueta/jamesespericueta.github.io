@@ -1,22 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "RM Robotics"
+    url: "https://github.com/RMRobotics"
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "blair3sat"
+    url: https://blair3sat.org
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Botball"
+    url: https://rockvillerobotics.github.io/frontend/index.html
